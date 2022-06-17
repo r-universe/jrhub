@@ -1,0 +1,14 @@
+[
+  {
+    "package": "regnet",
+    "oncran": true
+  },
+  {
+    "package": "roben",
+    "oncran": true
+  },
+  {
+    "package": "spinBayes",
+    "oncran": true
+  }
+]
