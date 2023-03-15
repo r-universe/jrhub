@@ -3,14 +3,14 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
-[submodule "roben"]
-	path = roben
-	url = https://github.com/jrhub/roben
-	shallow = true
-	registered = true
 [submodule "regnet"]
 	path = regnet
 	url = https://github.com/jrhub/regnet
+	shallow = true
+	registered = true
+[submodule "roben"]
+	path = roben
+	url = https://github.com/jrhub/roben
 	shallow = true
 	registered = true
 [submodule "spinBayes"]

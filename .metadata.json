@@ -1,10 +1,10 @@
 [
   {
-    "package": "roben",
+    "package": "regnet",
     "oncran": true
   },
   {
-    "package": "regnet",
+    "package": "roben",
     "oncran": true
   },
   {
